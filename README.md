@@ -1,2 +1,8 @@
-# install_spigotmc_pi4
-Install SpigotMC on Raspbian on Pi4
+# How to install Minecraft SpigotMC on Raspbian OS on Pi4
+
+Run below command to install Minecraft on your newly installed Raspbian OS on Pi4.
+
+As root
+```
+```
+
